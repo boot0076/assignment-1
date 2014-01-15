@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+	min-width: 768px;
+	background-color:#320318;
+}
+
+body {
+	font-size: 100%;
+}
+
+.billboard {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15rem;
+	height: 18rem;
+	width: 40rem;
+	background-color: #941751;
+	box-shadow: 2px 2px 2px 0px rgba(0,0,0,.5);
+	border: 8px solid #941751;
+	border-radius: 30px;
+}
+
+p {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFF;
+	font-size: 1.3rem;
+	padding-left: 5rem;
+	padding-right: 6rem;
+	padding-top: 3.1rem;
+	line-height: 1.5rem;
+}
+
+cite {
+	padding-top: 1rem;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.3rem;
+	color: #f4a3c0;
+	float: right;
+}
+
+.quote {
+	color: #b82d5d;
+	font-size: 9rem;
+	font-family: Arial, Helvetica, sans-serif;
+	position:fixed;
+	padding-top: 1rem;
+	padding-left: 1.5rem;
+}
+
+.quote2 {
+	color: #b82d5d;
+	font-family: Arial, Helvetica, sans-serif;
+	float: right;
+	padding-right: 3rem;
+	font-size: 9rem;
+	margin-top: -2.3rem;
+}
